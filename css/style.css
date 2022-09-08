@@ -30,11 +30,12 @@ p{
 a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:red;
+    
 }
 
 .linkspace{
     margin-left: 20px;
-    margin-right:20px; 
+    margin-right:20px;
 }
 
 a:hover{
@@ -46,9 +47,14 @@ a:visited{
 
 .purple{
     color:blueviolet;
+    margin-top: 10px;
 }
 
 .space{
     margin-top: 100px;
 
+}
+
+div{
+    margin-top: 10px;
 }
